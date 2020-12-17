@@ -17,8 +17,8 @@ this is my bblog website and I will share with you everything I will learn up to
 | Day                 | Class         |
 | -------------       |-------------  |
 | First day           | [Try❗️](https://mwjrarweh.github.io/reading-notes/)     |
-| Second day          | [Click me ✅]( https://mwjrarweh.github.io/reading-notes/read2)|
-| Third day           | [Hej!!](https://mwjrarweh.github.io/reading-notes/read3)|
+| Second day          | [Click me ✅](https://mwjrarweh.github.io/reading-notes/Read2)|
+| Third day           | [Hej!!](https://mwjrarweh.github.io/reading-notes/Read3)|
 
 
 
